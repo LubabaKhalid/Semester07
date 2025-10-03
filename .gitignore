@@ -1,0 +1,10 @@
+
+# Office lock/temp files
+~
+*.tmp
+# Jupyter checkpoints
+.ipynb_checkpoints/
+# OS clutter
+Thumbs.db
+.DS_Store
+desktop.ini
